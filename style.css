@@ -49,6 +49,8 @@ i {
 h1 {
     color: blue;
     font-family: 'Bangers', cursive;
+    opacity: 0.5;
+
 }
 
 iframe {

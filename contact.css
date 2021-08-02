@@ -10,7 +10,12 @@ li {
     float: left;
     font-family: 'Bangers', cursive;
 }
+p {
+    font-family: 'Bangers', cursive;
+    font-size: 150%;
+    color:white;
 
+}
 li a {
     display: block;
     color: white;
@@ -24,10 +29,13 @@ li a:hover {
 }
 
 body {
-    background-image: url(https://lh3.googleusercontent.com/proxy/7occhVfbnIyEPmrYu53_tQ70MialU9aJgnCz8LgFzklekZOQq_zIcUmH_zk7McIFYCMNjb_O7C46vTNVUO_5lBHIig5KNQY);
+    background-image: url(https://media.wired.com/photos/5926c126af95806129f50868/master/w_2560%2Cc_limit/SuperMarioRunTA.jpg);
     background-repeat: no-repeat;
-    background-position: 0px 85px; 
-    background-color: black;  
+    background-position: top;
+    background-size: 60%;
+    background-color: black;
+
+  
 }
 
 .form1 {
@@ -45,13 +53,13 @@ body {
     left: 0;
     bottom: 0;
     background-color:transparent;
-    color: blue;
+    color: white;
     text-align: center;
     text-decoration: none;
     font-family: 'Bangers', cursive;
 }
 
 i {
-    color: blue;
+    color: white;
   
 }
