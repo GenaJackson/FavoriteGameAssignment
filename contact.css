@@ -1,0 +1,57 @@
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: blue;
+}
+
+li {
+    float: left;
+    font-family: 'Bangers', cursive;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 15px 15px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: red;
+}
+
+body {
+    background-image: url(https://lh3.googleusercontent.com/proxy/7occhVfbnIyEPmrYu53_tQ70MialU9aJgnCz8LgFzklekZOQq_zIcUmH_zk7McIFYCMNjb_O7C46vTNVUO_5lBHIig5KNQY);
+    background-repeat: no-repeat;
+    background-position: 0px 85px; 
+    background-color: black;  
+}
+
+.form1 {
+    position: absolute;
+    margin-left: 70%;
+    color:blue;
+    border: groove;
+    background-color: red;
+    font-family: 'Bangers', cursive;
+}
+
+.footer {
+    position: fixed;
+    width: 100%;
+    left: 0;
+    bottom: 0;
+    background-color:transparent;
+    color: blue;
+    text-align: center;
+    text-decoration: none;
+    font-family: 'Bangers', cursive;
+}
+
+i {
+    color: blue;
+  
+}

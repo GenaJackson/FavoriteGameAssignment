@@ -1,0 +1,56 @@
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+
+}
+
+li {
+    float: left;
+    font-family: 'Bangers', cursive;
+}
+
+li a {
+    display: block;
+    color: blue;
+    text-align: center;
+    padding: 15px 15px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: red;
+}
+
+body {
+    background-image: url(https://images-na.ssl-images-amazon.com/images/I/51N63NHXS2L._AC_.jpg);
+    background-repeat: no-repeat;
+    background-position: top;
+    background-size: 45%;
+    background-color: black;
+}
+
+.footer {
+    position: fixed;
+    width: 100%;
+    left: 0;
+    bottom: 0;
+    background-color:black;
+    color: white;
+    text-align: center;
+    text-decoration: none; 
+    font-family: 'Bangers', cursive;
+}
+i {
+    color:blue
+}
+
+h1 {
+    color: blue;
+    font-family: 'Bangers', cursive;
+}
+
+iframe {
+    border-color: blue;
+}
